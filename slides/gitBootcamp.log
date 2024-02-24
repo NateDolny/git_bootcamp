@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.5)  24 FEB 2024 17:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.5)  24 FEB 2024 17:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -951,17 +951,17 @@ Dictionary: translator-theorem-dictionary, Language: English
 ) (./gitBootcamp.nav) [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<img/Git-Logo.png, id=60, 913.4125pt x 381.425pt>
+<img/Git-Logo.png, id=61, 913.4125pt x 381.425pt>
 File: img/Git-Logo.png Graphic file (type png)
 <use img/Git-Logo.png>
 Package pdftex.def Info: img/Git-Logo.png  used on input line 44.
 (pdftex.def)             Requested size: 68.45801pt x 28.58235pt.
-<img/Mercurial_logo.png, id=61, 856.19875pt x 1027.84pt>
+<img/Mercurial_logo.png, id=62, 856.19875pt x 1027.84pt>
 File: img/Mercurial_logo.png Graphic file (type png)
 <use img/Mercurial_logo.png>
 Package pdftex.def Info: img/Mercurial_logo.png  used on input line 44.
 (pdftex.def)             Requested size: 68.45801pt x 82.18182pt.
-<img/Apache_Subversion_logo.png, id=62, 893.3375pt x 770.88pt>
+<img/Apache_Subversion_logo.png, id=63, 893.3375pt x 770.88pt>
 File: img/Apache_Subversion_logo.png Graphic file (type png)
 <use img/Apache_Subversion_logo.png>
 Package pdftex.def Info: img/Apache_Subversion_logo.png  used on input line 44.
@@ -970,7 +970,9 @@ Package pdftex.def Info: img/Apache_Subversion_logo.png  used on input line 44.
  [2
 
  <./img/Git-Logo.png> <./img/Mercurial_logo.png> <./img/Apache_Subversion_logo.
-png>]
+png>] [3
+
+]
 \tf@nav=\write6
 \openout6 = `gitBootcamp.nav'.
 
@@ -985,10 +987,10 @@ Package rerunfilecheck Info: File `gitBootcamp.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21981 strings out of 476025
- 434596 string characters out of 5790018
+ 21985 strings out of 476025
+ 434629 string characters out of 5790018
  1862388 words of memory out of 5000000
- 41983 multiletter control sequences out of 15000+600000
+ 41985 multiletter control sequences out of 15000+600000
  515938 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,122p,386b,563s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -997,10 +999,10 @@ Here is how much of TeX's memory you used:
 /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
 
-Output written on gitBootcamp.pdf (2 pages, 170380 bytes).
+Output written on gitBootcamp.pdf (3 pages, 173708 bytes).
 PDF statistics:
- 125 PDF objects out of 1000 (max. 8388607)
- 86 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 500000)
+ 154 PDF objects out of 1000 (max. 8388607)
+ 113 compressed objects within 2 object streams
+ 7 named destinations out of 1000 (max. 500000)
  142 words of extra memory for PDF output out of 10000 (max. 10000000)
 
