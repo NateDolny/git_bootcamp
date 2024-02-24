@@ -1,0 +1,161 @@
+\documentclass[11pt]{scrartcl}
+\usepackage[margin=0pt, landscape]{geometry} 
+\usepackage{graphicx} 
+\usepackage{xcolor}
+\definecolor{crane}{RGB}{248, 187, 1}
+\usepackage{mdframed}
+\usepackage{url} 
+\setlength{\unitlength}{1mm} 
+\setlength{\parindent}{0pt} 
+\renewcommand{\dots}{\ \dotfill{}\ }
+\newcommand{\command}[2]{#1~\dotfill{}~#2\\} 
+\newcommand{\sectiontitle}[1]{\paragraph{\colorbox{crane}{\textbf{#1}}}\ \\} 
+
+%------------------------------------------------------------------------------
+
+\begin{document}
+
+\begin{picture}(297,210) % Create a container for the page content
+
+%------------------------------------------------------------------------------
+%	TITLE SECTION 
+%------------------------------------------------------------------------------
+
+\put(5,200){ % Position on the page to put the title
+\begin{minipage}[t]{210mm} % The size and alignment of the title
+\section*{\color{crane}Git Bootcamp Cheatsheet } % Title
+\end{minipage}
+}
+
+%------------------------------------------------------------------------------
+%	FIRST COLUMN SPECIFICATION
+%------------------------------------------------------------------------------
+
+\put(5,180){ % Divide the page
+\begin{minipage}[t]{110mm} % Create a box to house text
+
+%------------------------------------------------------------------------------
+%	HEADING ONE
+%------------------------------------------------------------------------------
+
+\sectiontitle{Create a Git Profile}
+	
+\command{git config --gobal user.name "Peter Parker"}{\textit{Sets profile name}}
+
+\command{git config --global user.email"Parker.P@midtown.net"}{\textit{Sets profile email}}
+
+\command{git config --global editor="vim"}{\textit{Sets default editor}}
+
+\command{git config --global list}{\textit{Displays Git profile configuration}}
+
+%------------------------------------------------------------------------------
+%	HEADING TWO
+%------------------------------------------------------------------------------				
+\sectiontitle{Make a Git Commit}
+			
+\command{git add \(\prec document \succ\)}{\textit{Add a document to staging}}
+
+\command{git status}{\textit{View documents that have been staged}}
+
+\command{git reset \(\prec document \succ\)}{\textit{Remove a document from staging}}
+
+\command{git commit}{\textit{Record changes to the repository}}
+
+%------------------------------------------------------------------------------
+%	HEADING THREE
+%------------------------------------------------------------------------------	
+
+\sectiontitle{Generate a SSH Key}
+
+
+%------------------------------------------------------------------------------
+
+\end{minipage} % End the first column of text
+} % End the first division of the page
+
+%------------------------------------------------------------------------------
+%	SECOND COLUMN SPECIFICATION 
+%------------------------------------------------------------------------------
+
+\put(125,180){ % Divide the page
+\begin{minipage}[t]{85mm} % Create a box to house text
+
+%------------------------------------------------------------------------------
+%	HEADING FOUR
+%------------------------------------------------------------------------------
+
+\sectiontitle{Adding a SSH Key to SSH-Agent}
+
+					
+%------------------------------------------------------------------------------
+%	HEADING FIVE
+%------------------------------------------------------------------------------				
+					
+\sectiontitle{Adding a Key to Gitlab} % Heading five
+
+
+\sectiontitle{More Git Commands} % Heading five
+
+%------------------------------------------------------------------------------
+
+\end{minipage} % End the second column of text
+} % End the second division of the page
+
+%------------------------------------------------------------------------------
+%	THIRD COLUMN SPECIFICATION 
+%------------------------------------------------------------------------------
+
+\put(220,180){ % Divide the page
+\begin{minipage}[t]{65mm} % Create a box to house tex
+
+%\vspace{\baselineskip} % Whitespace before the next section
+
+%------------------------------------------------------------------------------
+%	LINKS AND INFORMATION
+%------------------------------------------------------------------------------
+
+\sectiontitle{Additional Learning Resources}
+
+\textbf{Editors:}
+
+\url{http://www.nano-editor.org/}	
+
+\url{http://www.vim.org/}	
+
+\url{www.vim-hero.com} 	
+
+\vspace{2mm}
+\textbf{Git:}
+
+\url{https://www.git-scm.com}
+ 
+\url{https://www.git-scm.com/doc} 
+
+\url{https://docs.github.com/en}
+ 
+\url{https://docs.gitlab.com/ee/}
+
+%------------------------------------------------------------------------------
+%	FOOTNOTE
+%------------------------------------------------------------------------------
+
+\vspace{\baselineskip}
+\linethickness{0.5mm} % Thickness of the footer line
+%{\color{crangeorange}\line(1,0){30}} % Print the line with a custom color
+
+\footnotesize{
+Created by Nate Dolny, 2024\\ 
+\url{https://gitlab.com/natedolny/git\_bootcamp/}\\
+				
+Released under the MIT license.
+}
+
+%------------------------------------------------------------------------------
+
+\end{minipage} % End the third column of text
+} % End the third division of the page
+\end{picture} % End the container for the entire page
+
+%------------------------------------------------------------------------------
+
+\end{document}
