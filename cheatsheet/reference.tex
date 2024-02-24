@@ -72,14 +72,14 @@
 
 \sectiontitle{Adding a SSH Key to SSH-Agent}
 
-\command{eval "\$(ssh-agent -s)"}{Start ssh-agent in the background}
+\command{eval "\$(ssh-agent -s)"}{\textit{Start ssh-agent in the background}}
 
-\command{ssh-add ~/.ssh/\(\prec yourKeyName \succ\)}{Add your key to the ssh-agent}
+\command{ssh-add ~/.ssh/\(\prec yourKeyName \succ\)}{\textit{Add your key to the ssh-agent}}
 
 
 \sectiontitle{Testing your SSH Connection}
 
-\command{ssh -T git@git.cs.usask.ca}{Attempts to ssh to Gitlab}
+\command{ssh -T git@git.cs.usask.ca}{\textit{Attempts to ssh to Gitlab}}
 
 %------------------------------------------------------------------------------
 
@@ -96,8 +96,36 @@
 %------------------------------------------------------------------------------
 %	HEADING FIVE
 %------------------------------------------------------------------------------				
-\sectiontitle{More Git Commands} % Heading five
+\sectiontitle{Git Branching} % Heading five
 
+\command{git checkout}{\textit{Move to another branch}}
+
+\command{git checkout -b \(\prec branchName \succ\)}{\textit{Create a new branch}}
+
+\command{git checkout -d \(\prec branchName \succ\)}{\textit{Delete a branch}}
+
+\command{git branch}{\textit{View all branches}}
+
+\command{git merge}{\textit{Integrate changes from a branch into another branch}}
+
+
+\sectiontitle{More Git Commands}
+
+\command{git fetch}{\textit{Updates local references from remote branch but
+doesn't merge changes}}
+
+\command{git pull}{\textit{Fetches changes from remote repository and
+automatically merges them into your current branch}}
+
+\command{git push}{\textit{Uploads changes to remote repository}}
+
+\command{git log}{\textit{Display the commit history}}
+
+\command{git reset --soft \(\prec commitId \succ\)}{\textit{Reset to a specific commit, keep changes and
+staged documents from commits made after the commit}}
+
+\command{git reset --hard \(\prec commitId \succ\)}{\textit{Reset to a specific commit, discard any
+changes and commits made after the commit}}
 %------------------------------------------------------------------------------
 
 \end{minipage} % End the second column of text
