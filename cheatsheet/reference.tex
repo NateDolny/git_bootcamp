@@ -67,6 +67,19 @@
 
 \sectiontitle{Generate a SSH Key}
 
+\command{ssh-keygen -t ed25519 -C "Parker.P@Midtown.net" }{\textit{Generate a new SSH key on your machine}}
+
+
+\sectiontitle{Adding a SSH Key to SSH-Agent}
+
+\command{eval "\$(ssh-agent -s)"}{Start ssh-agent in the background}
+
+\command{ssh-add ~/.ssh/\(\prec yourKeyName \succ\)}{Add your key to the ssh-agent}
+
+
+\sectiontitle{Testing your SSH Connection}
+
+\command{ssh -T git@git.cs.usask.ca}{Attempts to ssh to Gitlab}
 
 %------------------------------------------------------------------------------
 
@@ -81,19 +94,8 @@
 \begin{minipage}[t]{85mm} % Create a box to house text
 
 %------------------------------------------------------------------------------
-%	HEADING FOUR
-%------------------------------------------------------------------------------
-
-\sectiontitle{Adding a SSH Key to SSH-Agent}
-
-					
-%------------------------------------------------------------------------------
 %	HEADING FIVE
 %------------------------------------------------------------------------------				
-					
-\sectiontitle{Adding a Key to Gitlab} % Heading five
-
-
 \sectiontitle{More Git Commands} % Heading five
 
 %------------------------------------------------------------------------------
