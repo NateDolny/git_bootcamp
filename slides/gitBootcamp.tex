@@ -370,4 +370,26 @@ changes you made to a document.
 
 \end{frame}
 
+
+% adding an ssh key to ssh agent 
+\begin{frame}
+	\frametitle{\textbf{Adding an SSH Key to the SSH-Agent}}
+
+	\textbf{Step 1.} \textit{Start ssh-agent in the background}
+	\begin{itemize}
+		\item eval "\$(ssh-agent -s)"
+	\end{itemize}
+
+	\vspace{0.5cm}
+	\textbf{Step 2.}\textit{Add your ssh key to the ssh-agent}
+	\begin{itemize}
+		\item ssh-add /.ssh/\(\prec yourKeyName \succ\)
+	\end{itemize}
+
+	\vspace{0.5cm}
+	\textit{If you didn't name your key use this instead}
+	\begin{itemize}
+		\item ssh-add /.ssh/id\_ed25519 
+	\end{itemize}
+\end{frame}
 \end{document}

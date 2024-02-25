@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.5)  24 FEB 2024 21:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.5)  24 FEB 2024 21:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1153,6 +1153,14 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 341--341
  <./img/openssh.png> <./img/securityMeme.jpeg>] [16
 
 ]
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
+394.
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/ts1cmss.fd
+File: ts1cmss.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+) [17
+
+{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 \tf@nav=\write6
 \openout6 = `gitBootcamp.nav'.
 
@@ -1162,27 +1170,29 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 341--341
 \tf@snm=\write8
 \openout8 = `gitBootcamp.snm'.
 
- (./gitBootcamp.aux)
+
+(./gitBootcamp.aux)
 Package rerunfilecheck Info: File `gitBootcamp.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 22228 strings out of 476025
- 439400 string characters out of 5790018
+ 22252 strings out of 476025
+ 440201 string characters out of 5790018
  1863388 words of memory out of 5000000
- 42165 multiletter control sequences out of 15000+600000
- 520876 words of font info for 62 fonts, out of 8000000 for 9000
+ 42182 multiletter control sequences out of 15000+600000
+ 521221 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,122p,386b,563s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb
 ></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><
 /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on gitBootcamp.pdf (16 pages, 3940526 bytes).
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
+/usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb>
+Output written on gitBootcamp.pdf (17 pages, 3945363 bytes).
 PDF statistics:
- 568 PDF objects out of 1000 (max. 8388607)
- 464 compressed objects within 5 object streams
- 33 named destinations out of 1000 (max. 500000)
+ 600 PDF objects out of 1000 (max. 8388607)
+ 493 compressed objects within 5 object streams
+ 35 named destinations out of 1000 (max. 500000)
  313 words of extra memory for PDF output out of 10000 (max. 10000000)
 
