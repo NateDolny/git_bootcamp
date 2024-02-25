@@ -339,4 +339,35 @@ changes you made to a document.
 		\end{figure}
 	\end{multicols}
 \end{frame}
+
+% Create an SSH Key
+\begin{frame}
+	\frametitle{\textbf{Generate an SSH Key}}
+	
+	\textbf{Generate an SSH-Key}
+	\begin{itemize}
+		\item ssh-keygen -t ed25519 -C "Parker.P@midtown.net" 
+	\end{itemize}
+	\vspace{0.5cm}
+
+	\textbf{You'll then be given a choice}
+	"Enter a file which to save the key (/home/You/.ssh/id\_ALGORITHM):"	
+	
+	\vspace{0.5cm}
+	\textbf{Option 1.} \textit{Name the key}
+	\begin{itemize}
+		\item Enter your chosen key name and press enter
+	\end{itemize}
+
+	\textbf{Option 2.} \textit{Press enter}
+	\begin{itemize}
+		\item Should only choose this option if you will only ever have one key
+	\end{itemize}
+
+	\begin{block}{}
+		\textbf{Congrats you have created your first SSH Key!!}
+	\end{block}
+
+\end{frame}
+
 \end{document}
