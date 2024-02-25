@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.5)  24 FEB 2024 20:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.5)  24 FEB 2024 20:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1115,7 +1115,7 @@ File: img/GitLab_logo.png Graphic file (type png)
 <use img/GitLab_logo.png>
 Package pdftex.def Info: img/GitLab_logo.png  used on input line 313.
 (pdftex.def)             Requested size: 102.68962pt x 31.40811pt.
-<img/gitlab_ui.png, id=440, 1806.75pt x 1090.0725pt>
+<img/gitlab_ui.png, id=441, 1806.75pt x 1090.0725pt>
 File: img/gitlab_ui.png Graphic file (type png)
 <use img/gitlab_ui.png>
 Package pdftex.def Info: img/gitlab_ui.png  used on input line 313.
@@ -1128,6 +1128,29 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 313--313
 [14
 
  <./img/gitlab_ui.png>]
+<img/openssh.png, id=468, 580.1675pt x 191.71625pt>
+File: img/openssh.png Graphic file (type png)
+<use img/openssh.png>
+Package pdftex.def Info: img/openssh.png  used on input line 341.
+(pdftex.def)             Requested size: 171.14764pt x 56.5558pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 341--341
+[]  
+ []
+
+<img/securityMeme.jpeg, id=469, 401.5pt x 301.125pt>
+File: img/securityMeme.jpeg Graphic file (type jpg)
+<use img/securityMeme.jpeg>
+Package pdftex.def Info: img/securityMeme.jpeg  used on input line 341.
+(pdftex.def)             Requested size: 171.14764pt x 128.36469pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 341--341
+ []
+ []
+
+[15
+
+ <./img/openssh.png> <./img/securityMeme.jpeg>]
 \tf@nav=\write6
 \openout6 = `gitBootcamp.nav'.
 
@@ -1142,10 +1165,10 @@ Package rerunfilecheck Info: File `gitBootcamp.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 22199 strings out of 476025
- 438745 string characters out of 5790018
+ 22217 strings out of 476025
+ 439085 string characters out of 5790018
  1863388 words of memory out of 5000000
- 42142 multiletter control sequences out of 15000+600000
+ 42156 multiletter control sequences out of 15000+600000
  520876 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,122p,386b,563s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1154,10 +1177,10 @@ Here is how much of TeX's memory you used:
 /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on gitBootcamp.pdf (14 pages, 3786791 bytes).
+Output written on gitBootcamp.pdf (15 pages, 3935368 bytes).
 PDF statistics:
- 500 PDF objects out of 1000 (max. 8388607)
- 407 compressed objects within 5 object streams
- 29 named destinations out of 1000 (max. 500000)
- 267 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 530 PDF objects out of 1000 (max. 8388607)
+ 433 compressed objects within 5 object streams
+ 31 named destinations out of 1000 (max. 500000)
+ 277 words of extra memory for PDF output out of 10000 (max. 10000000)
 
