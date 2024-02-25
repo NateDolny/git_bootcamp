@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.5)  24 FEB 2024 19:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.5)  24 FEB 2024 19:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1027,6 +1027,23 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 146--146
 [7
 
  <./img/Vim.png>]
+File: img/Emacs_logo.png Graphic file (type png)
+<use img/Emacs_logo.png>
+Package pdftex.def Info: img/Emacs_logo.png  used on input line 166.
+(pdftex.def)             Requested size: 68.45801pt x 68.44302pt.
+<img/Emacs.png, id=256, 1806.75pt x 1173.38374pt>
+File: img/Emacs.png Graphic file (type png)
+<use img/Emacs.png>
+Package pdftex.def Info: img/Emacs.png  used on input line 166.
+(pdftex.def)             Requested size: 171.14764pt x 111.15033pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 166--166
+[][]  
+ []
+
+[8
+
+ <./img/Emacs.png>]
 \tf@nav=\write6
 \openout6 = `gitBootcamp.nav'.
 
@@ -1041,10 +1058,10 @@ Package rerunfilecheck Info: File `gitBootcamp.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 22036 strings out of 476025
- 435414 string characters out of 5790018
+ 22045 strings out of 476025
+ 435549 string characters out of 5790018
  1863388 words of memory out of 5000000
- 42023 multiletter control sequences out of 15000+600000
+ 42029 multiletter control sequences out of 15000+600000
  515938 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,122p,386b,563s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1053,10 +1070,10 @@ Here is how much of TeX's memory you used:
 /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
 
-Output written on gitBootcamp.pdf (7 pages, 981444 bytes).
+Output written on gitBootcamp.pdf (8 pages, 1274170 bytes).
 PDF statistics:
- 281 PDF objects out of 1000 (max. 8388607)
- 220 compressed objects within 3 object streams
- 15 named destinations out of 1000 (max. 500000)
- 197 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 309 PDF objects out of 1000 (max. 8388607)
+ 245 compressed objects within 3 object streams
+ 17 named destinations out of 1000 (max. 500000)
+ 202 words of extra memory for PDF output out of 10000 (max. 10000000)
 
