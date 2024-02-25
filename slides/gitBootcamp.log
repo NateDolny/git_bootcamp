@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.5)  24 FEB 2024 20:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.5)  24 FEB 2024 20:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1075,17 +1075,17 @@ thkerncmss.
 ) [11
 
 ]
-<img/GitHub_Logo.png, id=376, 1003.75pt x 411.5375pt>
+<img/GitHub_Logo.png, id=377, 1003.75pt x 411.5375pt>
 File: img/GitHub_Logo.png Graphic file (type png)
 <use img/GitHub_Logo.png>
 Package pdftex.def Info: img/GitHub_Logo.png  used on input line 270.
 (pdftex.def)             Requested size: 171.14764pt x 70.16766pt.
-<img/GitLab_logo.png, id=377, 2569.6pt x 785.93625pt>
+<img/GitLab_logo.png, id=378, 2569.6pt x 785.93625pt>
 File: img/GitLab_logo.png Graphic file (type png)
 <use img/GitLab_logo.png>
 Package pdftex.def Info: img/GitLab_logo.png  used on input line 270.
 (pdftex.def)             Requested size: 171.14764pt x 52.34685pt.
-<img/Bitbucket_Logo.png, id=378, 445.665pt x 64.24pt>
+<img/Bitbucket_Logo.png, id=379, 445.665pt x 64.24pt>
 File: img/Bitbucket_Logo.png Graphic file (type png)
 <use img/Bitbucket_Logo.png>
 Package pdftex.def Info: img/Bitbucket_Logo.png  used on input line 270.
@@ -1093,6 +1093,24 @@ Package pdftex.def Info: img/Bitbucket_Logo.png  used on input line 270.
  [12
 
  <./img/GitHub_Logo.png> <./img/GitLab_logo.png> <./img/Bitbucket_Logo.png>]
+<img/GitHub_logo.png, id=409, 1003.75pt x 411.5375pt>
+File: img/GitHub_logo.png Graphic file (type png)
+<use img/GitHub_logo.png>
+Package pdftex.def Info: img/GitHub_logo.png  used on input line 291.
+(pdftex.def)             Requested size: 102.68962pt x 42.09808pt.
+<img/github_ui.png, id=410, 1806.75pt x 1090.0725pt>
+File: img/github_ui.png Graphic file (type png)
+<use img/github_ui.png>
+Package pdftex.def Info: img/github_ui.png  used on input line 291.
+(pdftex.def)             Requested size: 171.14764pt x 103.25856pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 291--291
+[][]  
+ []
+
+[13
+
+ <./img/GitHub_logo.png> <./img/github_ui.png>]
 \tf@nav=\write6
 \openout6 = `gitBootcamp.nav'.
 
@@ -1107,10 +1125,10 @@ Package rerunfilecheck Info: File `gitBootcamp.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 22170 strings out of 476025
- 438223 string characters out of 5790018
+ 22188 strings out of 476025
+ 438564 string characters out of 5790018
  1863388 words of memory out of 5000000
- 42120 multiletter control sequences out of 15000+600000
+ 42134 multiletter control sequences out of 15000+600000
  520876 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,122p,386b,563s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1119,10 +1137,10 @@ Here is how much of TeX's memory you used:
 /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on gitBootcamp.pdf (12 pages, 1604365 bytes).
+Output written on gitBootcamp.pdf (13 pages, 3007819 bytes).
 PDF statistics:
- 440 PDF objects out of 1000 (max. 8388607)
- 356 compressed objects within 4 object streams
- 25 named destinations out of 1000 (max. 500000)
- 252 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 471 PDF objects out of 1000 (max. 8388607)
+ 382 compressed objects within 4 object streams
+ 27 named destinations out of 1000 (max. 500000)
+ 262 words of extra memory for PDF output out of 10000 (max. 10000000)
 
