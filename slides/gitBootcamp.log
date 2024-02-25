@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.5)  24 FEB 2024 17:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.5)  24 FEB 2024 18:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -791,24 +791,24 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 (./gitBootcamp.aux)
 \openout1 = `gitBootcamp.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -866,64 +866,64 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 12.
+Package hyperref Info: Link coloring OFF on input line 13.
 
 (./gitBootcamp.out) (./gitBootcamp.out)
 \@outlinefile=\write5
 \openout5 = `gitBootcamp.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 12.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 13.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 12.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 13.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 12.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 12.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 12.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 12.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 13.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 12.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 12.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 12.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 13.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 12.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 12.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 12.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 13.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 12.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 12.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 13.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 12.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 13.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 12.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 12.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 12.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 12.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 12.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 12.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 12.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 13.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 13.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 1
-2.
+3.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 1
-2.
+3.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 12.
+ut line 13.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dicti
 onary-English.dict
@@ -954,17 +954,17 @@ Dictionary: translator-theorem-dictionary, Language: English
 <img/Git-Logo.png, id=61, 913.4125pt x 381.425pt>
 File: img/Git-Logo.png Graphic file (type png)
 <use img/Git-Logo.png>
-Package pdftex.def Info: img/Git-Logo.png  used on input line 44.
+Package pdftex.def Info: img/Git-Logo.png  used on input line 45.
 (pdftex.def)             Requested size: 68.45801pt x 28.58235pt.
 <img/Mercurial_logo.png, id=62, 856.19875pt x 1027.84pt>
 File: img/Mercurial_logo.png Graphic file (type png)
 <use img/Mercurial_logo.png>
-Package pdftex.def Info: img/Mercurial_logo.png  used on input line 44.
+Package pdftex.def Info: img/Mercurial_logo.png  used on input line 45.
 (pdftex.def)             Requested size: 68.45801pt x 82.18182pt.
 <img/Apache_Subversion_logo.png, id=63, 893.3375pt x 770.88pt>
 File: img/Apache_Subversion_logo.png Graphic file (type png)
 <use img/Apache_Subversion_logo.png>
-Package pdftex.def Info: img/Apache_Subversion_logo.png  used on input line 44.
+Package pdftex.def Info: img/Apache_Subversion_logo.png  used on input line 45.
 
 (pdftex.def)             Requested size: 68.45801pt x 59.0721pt.
  [2
@@ -975,6 +975,24 @@ png>] [3
 ] [4
 
 ]
+<img/Vim_logo.png, id=168, 1025.8325pt x 1027.84pt>
+File: img/Vim_logo.png Graphic file (type png)
+<use img/Vim_logo.png>
+Package pdftex.def Info: img/Vim_logo.png  used on input line 105.
+(pdftex.def)             Requested size: 68.45801pt x 68.58418pt.
+<img/nano_logo.png, id=169, 2055.68pt x 2055.68pt>
+File: img/nano_logo.png Graphic file (type png)
+<use img/nano_logo.png>
+Package pdftex.def Info: img/nano_logo.png  used on input line 105.
+(pdftex.def)             Requested size: 68.45801pt x 68.44302pt.
+<img/Emacs_logo.png, id=170, 2055.68pt x 2055.68pt>
+File: img/Emacs_logo.png Graphic file (type png)
+<use img/Emacs_logo.png>
+Package pdftex.def Info: img/Emacs_logo.png  used on input line 105.
+(pdftex.def)             Requested size: 68.45801pt x 68.44302pt.
+ [5
+
+ <./img/Vim_logo.png> <./img/nano_logo.png> <./img/Emacs_logo.png>]
 \tf@nav=\write6
 \openout6 = `gitBootcamp.nav'.
 
@@ -989,10 +1007,10 @@ Package rerunfilecheck Info: File `gitBootcamp.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21989 strings out of 476025
- 434662 string characters out of 5790018
+ 22014 strings out of 476025
+ 435133 string characters out of 5790018
  1863388 words of memory out of 5000000
- 41987 multiletter control sequences out of 15000+600000
+ 42007 multiletter control sequences out of 15000+600000
  515938 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,122p,386b,563s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1001,10 +1019,10 @@ Here is how much of TeX's memory you used:
 /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
 
-Output written on gitBootcamp.pdf (4 pages, 180480 bytes).
+Output written on gitBootcamp.pdf (5 pages, 637206 bytes).
 PDF statistics:
- 189 PDF objects out of 1000 (max. 8388607)
- 142 compressed objects within 2 object streams
- 9 named destinations out of 1000 (max. 500000)
- 172 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 221 PDF objects out of 1000 (max. 8388607)
+ 167 compressed objects within 2 object streams
+ 11 named destinations out of 1000 (max. 500000)
+ 187 words of extra memory for PDF output out of 10000 (max. 10000000)
 
