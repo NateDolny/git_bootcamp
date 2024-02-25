@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.5)  24 FEB 2024 19:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.5)  24 FEB 2024 19:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1014,7 +1014,7 @@ File: img/Vim_logo.png Graphic file (type png)
 <use img/Vim_logo.png>
 Package pdftex.def Info: img/Vim_logo.png  used on input line 146.
 (pdftex.def)             Requested size: 68.45801pt x 68.58418pt.
-<img/Vim.png, id=228, 1806.75pt x 1173.38374pt>
+<img/Vim.png, id=229, 1806.75pt x 1173.38374pt>
 File: img/Vim.png Graphic file (type png)
 <use img/Vim.png>
 Package pdftex.def Info: img/Vim.png  used on input line 146.
@@ -1029,21 +1029,29 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 146--146
  <./img/Vim.png>]
 File: img/Emacs_logo.png Graphic file (type png)
 <use img/Emacs_logo.png>
-Package pdftex.def Info: img/Emacs_logo.png  used on input line 166.
+Package pdftex.def Info: img/Emacs_logo.png  used on input line 167.
 (pdftex.def)             Requested size: 68.45801pt x 68.44302pt.
-<img/Emacs.png, id=256, 1806.75pt x 1173.38374pt>
+<img/Emacs.png, id=257, 1806.75pt x 1173.38374pt>
 File: img/Emacs.png Graphic file (type png)
 <use img/Emacs.png>
-Package pdftex.def Info: img/Emacs.png  used on input line 166.
+Package pdftex.def Info: img/Emacs.png  used on input line 167.
 (pdftex.def)             Requested size: 171.14764pt x 111.15033pt.
 
-Overfull \hbox (5.0pt too wide) in paragraph at lines 166--166
+Overfull \hbox (5.0pt too wide) in paragraph at lines 167--167
 [][]  
  []
 
 [8
 
  <./img/Emacs.png>]
+<img/minorchanges.jpeg, id=285, 1084.05pt x 1064.97874pt>
+File: img/minorchanges.jpeg Graphic file (type jpg)
+<use img/minorchanges.jpeg>
+Package pdftex.def Info: img/minorchanges.jpeg  used on input line 183.
+(pdftex.def)             Requested size: 171.14764pt x 168.12505pt.
+ [9
+
+ <./img/minorchanges.jpeg>]
 \tf@nav=\write6
 \openout6 = `gitBootcamp.nav'.
 
@@ -1058,10 +1066,10 @@ Package rerunfilecheck Info: File `gitBootcamp.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 22045 strings out of 476025
- 435549 string characters out of 5790018
+ 22057 strings out of 476025
+ 435760 string characters out of 5790018
  1863388 words of memory out of 5000000
- 42029 multiletter control sequences out of 15000+600000
+ 42037 multiletter control sequences out of 15000+600000
  515938 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,122p,386b,563s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1070,10 +1078,10 @@ Here is how much of TeX's memory you used:
 /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
 
-Output written on gitBootcamp.pdf (8 pages, 1274170 bytes).
+Output written on gitBootcamp.pdf (9 pages, 1479393 bytes).
 PDF statistics:
- 309 PDF objects out of 1000 (max. 8388607)
- 245 compressed objects within 3 object streams
- 17 named destinations out of 1000 (max. 500000)
- 202 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 337 PDF objects out of 1000 (max. 8388607)
+ 271 compressed objects within 3 object streams
+ 19 named destinations out of 1000 (max. 500000)
+ 207 words of extra memory for PDF output out of 10000 (max. 10000000)
 
