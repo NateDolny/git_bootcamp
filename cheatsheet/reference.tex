@@ -10,6 +10,10 @@
 \renewcommand{\dots}{\ \dotfill{}\ }
 \newcommand{\command}[2]{#1~\dotfill{}~#2\\} 
 \newcommand{\sectiontitle}[1]{\paragraph{\colorbox{crane}{\textbf{#1}}}\ \\} 
+\usepackage{fontspec}
+\setmainfont{Arial}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
 
 %------------------------------------------------------------------------------
 
@@ -23,7 +27,7 @@
 
 \put(5,200){ % Position on the page to put the title
 \begin{minipage}[t]{210mm} % The size and alignment of the title
-\section*{\color{crane}Git Bootcamp Cheatsheet } % Title
+\section*{Git Bootcamp Cheatsheet -- Git \& Vim} % Title
 \end{minipage}
 }
 
@@ -42,22 +46,24 @@
 	
 \command{git config --gobal user.name "Peter Parker"}{\textit{Sets profile name}}
 
-\command{git config --global user.email"Parker.P@midtown.net"}{\textit{Sets profile email}}
+\command{git config --global user.email "Parker.P@midtown.net"}{\textit{Sets profile email}}
 
 \command{git config --global editor="vim"}{\textit{Sets default editor}}
 
-\command{git config --global list}{\textit{Displays Git profile configuration}}
+\command{git config --global list}{\textit{Displays profile configuration}}
 
 %------------------------------------------------------------------------------
 %	HEADING TWO
 %------------------------------------------------------------------------------				
 \sectiontitle{Make a Git Commit}
+
+\command{git init}{\textit{Initalizes a new repository in a directory}}
 			
-\command{git add \(\prec document \succ\)}{\textit{Add a document to staging}}
+\command{git add <document>}{\textit{Add a document to staging}}
 
 \command{git status}{\textit{View documents that have been staged}}
 
-\command{git reset \(\prec document \succ\)}{\textit{Remove a document from staging}}
+\command{git reset <document>}{\textit{Remove a document from staging}}
 
 \command{git commit}{\textit{Record changes to the repository}}
 
@@ -74,7 +80,7 @@
 
 \command{eval "\$(ssh-agent -s)"}{\textit{Start ssh-agent in the background}}
 
-\command{ssh-add ~/.ssh/\(\prec yourKeyName \succ\)}{\textit{Add your key to the ssh-agent}}
+\command{ssh-add ~/.ssh/<yourKeyName>}{\textit{Add your key to the ssh-agent}}
 
 
 \sectiontitle{Testing your SSH Connection}
@@ -98,18 +104,20 @@
 %------------------------------------------------------------------------------				
 \sectiontitle{Git Branching} % Heading five
 
-\command{git checkout}{\textit{Move to another branch}}
+\command{git checkout <branchName>}{\textit{Move to another branch}}
 
-\command{git checkout -b \(\prec branchName \succ\)}{\textit{Create a new branch}}
+\command{git checkout -b <branchName>}{\textit{Create a new branch}}
 
-\command{git checkout -d \(\prec branchName \succ\)}{\textit{Delete a branch}}
+\command{git checkout -d <branchName>}{\textit{Delete a branch}}
 
 \command{git branch}{\textit{View all branches}}
 
-\command{git merge}{\textit{Integrate changes from a branch into another branch}}
+\command{git merge <branchName>}{\textit{Integrate changes from a branch into another branch}}
 
 
 \sectiontitle{More Git Commands}
+
+\command{git clone}{\textit{Create a copy of an existing repository}}
 
 \command{git fetch}{\textit{Updates local references from remote branch but
 doesn't merge changes}}
@@ -121,10 +129,10 @@ automatically merges them into your current branch}}
 
 \command{git log}{\textit{Display the commit history}}
 
-\command{git reset --soft \(\prec commitId \succ\)}{\textit{Reset to a specific commit, keep changes and
+\command{git reset --soft <commitId>}{\textit{Reset to a specific commit, keep changes and
 staged documents from commits made after the commit}}
 
-\command{git reset --hard \(\prec commitId \succ\)}{\textit{Reset to a specific commit, discard any
+\command{git reset --hard <commitId>}{\textit{Reset to a specific commit, discard any
 changes and commits made after the commit}}
 %------------------------------------------------------------------------------
 
@@ -145,13 +153,13 @@ changes and commits made after the commit}}
 %------------------------------------------------------------------------------
 \sectiontitle{Vim Commands}
 
-\command{k or \(\uparrow\) key}{\textit{Move cursor up}}
+\command{k}{\textit{Move cursor up}}
 
-\command{j or \(\downarrow\) key}{\textit{Move cursor down}}
+\command{j}{\textit{Move cursor down}}
 
-\command{h or \(\leftarrow\) key}{\textit{Move cursor left}}
+\command{h}{\textit{Move cursor left}}
 
-\command{l or \(\rightarrow\) key}{\textit{Move cursor right}}
+\command{l}{\textit{Move cursor right}}
 
 \command{i}{\textit{Enter insert mode}}
 
@@ -195,7 +203,7 @@ changes and commits made after the commit}}
 
 \footnotesize{
 Created by Nate Dolny, 2024\\ 
-\url{https://gitlab.com/natedolny/git\_bootcamp/}\\
+\url{https://gitlab.com/natedolny/git_bootcamp/}\\
 				
 Released under the MIT license.
 }
