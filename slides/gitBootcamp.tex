@@ -540,11 +540,11 @@ changes you made to a document.
 			\includegraphics[width=0.5\textwidth]{img/broken.jpeg} 
 	\end{figure}
 
-	\end{frame}
+\end{frame}
 
 % Making a git branch 
-	\begin{frame}
-		\frametitle{\textbf{Making a Git Branch}}
+\begin{frame}
+	\frametitle{\textbf{Making a Git Branch}}
 		
 
 	\textbf{git checkout -b \(\prec branchName \succ\)}
@@ -570,6 +570,22 @@ changes you made to a document.
 		\item \textit{Integrate changes from a branch into another branch}
 	\end{itemize}
 	
-	\end{frame}
+\end{frame}
 
+% rolling back in git 
+\begin{frame}
+	\frametitle{\textbf{What if we need to rollback?}}
+	
+	\textbf{git reset -soft \(\prec commit\_id \succ\)}
+	\begin{itemize}
+		\item \textit{Resets to a specific commit, keep changes and staged documents from commits made after the commit}
+	\end{itemize}
+	\vspace{0.25cm}
+
+	\textbf{git reset -hard \(\prec commit\_id \succ\)}
+	\begin{itemize}
+		\item \textit{Resets to a specific commit, discards any changes and commits made after the commit}
+	\end{itemize}
+
+\end{frame}
 \end{document}
