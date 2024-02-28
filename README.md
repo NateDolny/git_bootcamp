@@ -41,7 +41,9 @@ For optimal printing results of the Resource sheet, please use the following ins
 Alternatively, if you prefer not to compile the LaTeX files yourself, you can download the pre-compiled PDF files directly from the correct directory.
 
 1. Navigate to the directory where you want the PDF files.
+
 2. Download the PDF files gitBootcamp.pdf and resources.pdf from their respective directories.
+
 3. You can now use the downloaded PDF files as needed without the need for compilation.
 
 If you encounter any issues or have questions, feel free to reach out for assistance.
