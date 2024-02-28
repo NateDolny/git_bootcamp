@@ -1,4 +1,4 @@
-![Git Bootcamp](<~/slides/img/Git Bootcamp.png>)
+![Git Bootcamp](<https://gitlab.com/natedolny/git_bootcamp/slides/img/Git Bootcamp.png>)
 
 # Welcome to the Git Bootcamp!
 Welcome, first and second year Computer Science students, to our bootcamp! 
