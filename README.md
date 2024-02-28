@@ -15,9 +15,8 @@ To compile the Git Bootcamp slides, please follow these steps:
 4. Run the following command to compile the slides:
    
    ```
-   
+
    pdflatex gitBootcamp.tex
-   
    ```
    Your compiled PDF slides should now be available in the same directory as gitBootcamp.tex.
 
@@ -34,7 +33,6 @@ For optimal printing results of the Resource sheet, please use the following ins
    ```
    
    xelatex resources.tex
-   
    ```
    Your compiled PDF reference sheet should now be available in the same directory as resources.tex.
 
