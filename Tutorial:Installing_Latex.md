@@ -7,7 +7,7 @@ This guide provides instructions for installing LaTeX on Windows, mac, and Linux
 # Windows
 To install LaTeX on a Windows system, follow these steps:
 
-1. Download the MiKTeX installer from the MiKTeX website: MiKTeX Download
+1. Download the MiKTeX installer from the MiKTeX website: https://miktex.org/download
 
 2. Run the installer and follow the on-screen instructions to complete the installation.
   
