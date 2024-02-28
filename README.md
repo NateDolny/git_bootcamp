@@ -1,4 +1,6 @@
-# Welcome to the Git Bootcamp!
+![Git Bootcamp](<Git Bootcamp-1.png>)
+
+# Welcome
 Welcome, first and second year Computer Science students, to our bootcamp! 
 We are excited to embark on this journey of learning and growth with you. 
 This bootcamp aims to provide you with foundational knowledge, practical skills, 
