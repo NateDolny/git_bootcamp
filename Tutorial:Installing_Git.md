@@ -1,8 +1,6 @@
-# Checking if Git is Installed
+# Installing Git
 
 Git is a widely used distributed version control system designed to handle everything from small to very large projects with speed and efficiency. It is essential for software development, allowing users to track changes in source code during software development. Here, we provide instructions on how to install Git on Windows, Mac, and Linux systems.
-
-# Installing Git 
 
 ## Windows:
 
@@ -28,7 +26,7 @@ Type brew install git and press Enter.
 3. Verify Installation:
 After installation, type git --version to verify the installation.
 
-# GNU Linux:
+# Linux:
 To install Git on a Linux system, Git can be installed using the package manager.
 
 1. Open a Terminal

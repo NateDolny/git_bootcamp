@@ -1,3 +1,5 @@
+![Git Bootcamp](<~/slides/img/Git Bootcamp.png>)
+
 # Welcome to the Git Bootcamp!
 Welcome, first and second year Computer Science students, to our bootcamp! 
 We are excited to embark on this journey of learning and growth with you. 

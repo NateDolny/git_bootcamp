@@ -1,4 +1,4 @@
-# Checking if Git is Installed
+# Verifying Git Installation
 
 Git is a widely used distributed version control system designed to handle everything from small to very large projects with speed and efficiency. It is essential for software development, allowing users to track changes in source code during software development. Here, we provide instructions on how to check if Git is installed on Windows, Mac, and Linux systems.
 
@@ -23,7 +23,7 @@ To check if Git is installed on a Mac system, you can follow these steps:
 
 If Git is installed, you will see the installed version information. 
 
-## GNU Linux:
+## Linux:
 
 To check if Git is installed on a Linux system, you can follow these steps:
 
