@@ -26,7 +26,7 @@ Type brew install git and press Enter.
 3. Verify Installation:
 After installation, type git --version to verify the installation.
 
-# GNU Linux:
+# Linux:
 To install Git on a Linux system, Git can be installed using the package manager.
 
 1. Open a Terminal
