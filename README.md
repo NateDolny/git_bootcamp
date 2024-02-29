@@ -35,30 +35,30 @@ If you encounter any issues or have questions, feel free to reach out for assist
 
 ### Git: 
 
-[Git Website](git-scm.com)
+[Git Website](https://git-scm.com)
 
-[Git Manual](git-scm.com/doc)
+[Git Manual](https://git-scm.com/doc)
 
 
 ### GitLab:
 
-[GitLab Website](www.gitlab.com)
+[GitLab Website](https://gitlab.com)
 
 [GitLab Manuals](https://docs.gitlab.com/ee/)
 
 
 ### GitHub:
 
-[GitHub Website](www.github.com)
+[GitHub Website](https://github.com)
 
 [GitHub Manuals](https://docs.github.com/en)
 
 
 ### Vim Text Editor:
 
-[Vim Website](www.vim.org)
+[Vim Website](https://vim.org)
 
-[Vim Tutorial](www.vim-hero.com)
+[Vim Tutorial](https://vim-hero.com)
 
 Vim Manual (if on a unix base machine)
 
@@ -69,7 +69,7 @@ man vim
 
 ### Nano Text Editor: 
 
-[Nano Website](www.nano-editor.org)
+[Nano Website](https://nano-editor.org)
 
 Nano Manual (if on a unix based machine) 
 
