@@ -15,7 +15,7 @@ installed](https://gitlab.com/natedolny/git_bootcamp/-/wikis/Git-Verification-an
 installed](https://gitlab.com/natedolny/git_bootcamp/-/wikis/Verify-LaTeX-Installation)
 
 [Wiki Page: How to install
-Latex](https://gitlab.com/natedolny/git_bootcamp/-/wikis/Installing-LaTeX)
+Latex](https://gitlab.com/natedolny/git_bootcamp/-/wikis/How-to-install-LaTeX)
 
 [Wiki Page: How to install
 Git](https://gitlab.com/natedolny/git_bootcamp/-/wikis/How-to-Install-Git)
