@@ -17,6 +17,9 @@ installed](https://gitlab.com/natedolny/git_bootcamp/-/wikis/Verify-LaTeX-Instal
 [Wiki Page: How to install
 Latex](https://gitlab.com/natedolny/git_bootcamp/-/wikis/Installing-LaTeX)
 
+[Wiki Page: How to install
+Git](https://gitlab.com/natedolny/git_bootcamp/-/wikis/How-to-Install-Git)
+
 ## Instructions for Compiling Git Bootcamp Slides
 
 To compile the Git Bootcamp slides, please follow these steps:
