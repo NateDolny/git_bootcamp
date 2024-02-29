@@ -9,7 +9,7 @@ and a supportive environment to help you thrive in your academic and professiona
 ## Table of Contents
 
 [Tutorial: How to verify Git
-installed](https://gitlab.com/natedolny/git_bootcamp/-/wikis/Git-Verification-and-Installation)
+installed](https://gitlab.com/natedolny/git_bootcamp/-/wikis/Verify-Git-Installation)
 
 [Tutorial: How to verify Latex
 installed](https://gitlab.com/natedolny/git_bootcamp/-/wikis/Verify-LaTeX-Installation)
