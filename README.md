@@ -11,6 +11,8 @@ and a supportive environment to help you thrive in your academic and professiona
 [Wiki Page: How to verify Git
 installed](https://gitlab.com/natedolny/git_bootcamp/-/wikis/Git-Verification-and-Installation)
 
+[Wiki Page: How to verify Latex
+installed](https://gitlab.com/natedolny/git_bootcamp/-/wikis/Verify-LaTeX-Installation)
 
 ## Instructions for Compiling Git Bootcamp Slides
 
