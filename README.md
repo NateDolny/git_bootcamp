@@ -29,6 +29,8 @@ Latex](https://gitlab.com/natedolny/git_bootcamp/-/wikis/How-to-install-LaTeX)
 [Tutorial: How to install
 Git](https://gitlab.com/natedolny/git_bootcamp/-/wikis/How-to-Install-Git)
 
+If you encounter any issues or have questions, feel free to reach out for assistance.
+
 ## Additional Learning Resources 
 
 ### Git: 
@@ -75,4 +77,3 @@ Nano Manual (if on a unix based machine)
 man nano
 ```
 
-If you encounter any issues or have questions, feel free to reach out for assistance.
