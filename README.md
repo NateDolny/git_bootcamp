@@ -33,8 +33,8 @@ Git](https://gitlab.com/natedolny/git_bootcamp/-/wikis/How-to-Install-Git)
 
 ### Git: 
 
-[Git Website:](git-scm.com)
-[Git Manual:](git-scm.com/doc)
+- [Git Website:] (git-scm.com)
+- [Git Manual:] (git-scm.com/doc)
 
 [GitLab Website:](www.gitlab.com)
 [GitLab Manuals:](https://docs.gitlab.com/ee/)
