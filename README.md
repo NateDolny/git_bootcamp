@@ -8,32 +8,23 @@ and a supportive environment to help you thrive in your academic and professiona
 
 ## Table of Contents
 
-[Wiki Page: How to verify Git
+[Tutorial: How to verify Git
 installed](https://gitlab.com/natedolny/git_bootcamp/-/wikis/Git-Verification-and-Installation)
 
-[Wiki Page: How to verify Latex
+[Tutorial: How to verify Latex
 installed](https://gitlab.com/natedolny/git_bootcamp/-/wikis/Verify-LaTeX-Installation)
 
-[Wiki Page: How to install
+[Tutorial: How to install
 Latex](https://gitlab.com/natedolny/git_bootcamp/-/wikis/How-to-install-LaTeX)
 
-[Wiki Page: How to install
+[Tutorial: How to install
 Git](https://gitlab.com/natedolny/git_bootcamp/-/wikis/How-to-Install-Git)
 
-## Instructions for Compiling Git Bootcamp Slides
+[Tutorial: How to compile Git Bootcamp
+Slides](https://gitlab.com/natedolny/git_bootcamp/-/wikis/How-to-compile-Git-Bootcamp-Slides)
 
-To compile the Git Bootcamp slides, please follow these steps:
-
-1. Ensure you have LaTeX installed on your system.
-2. Open a terminal or command prompt.
-3. Navigate to the directory containing the gitBootcamp.tex file using the cd command.
-4. Run the following command to compile the slides:
-   
-   ```
-   pdflatex gitBootcamp.tex
-   ```
-   Your compiled PDF slides should now be available in the same directory as gitBootcamp.tex.
-
+[Tutorial: How to compile Reference
+sheet](https://gitlab.com/natedolny/git_bootcamp/-/wikis/How-to-compile-reference-sheet)
 
 ## Instructions for Printing Resource Sheet
 
