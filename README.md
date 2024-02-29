@@ -6,6 +6,11 @@ We are excited to embark on this journey of learning and growth with you.
 This bootcamp aims to provide you with foundational knowledge, practical skills, 
 and a supportive environment to help you thrive in your academic and professional pursuits in the field of Computer Science.
 
+## Table of Contents
+
+[Wiki Page: How to verify Git
+installed](https://gitlab.com/natedolny/git_bootcamp/-/wikis/Git-Verification-and-Installation)
+
 
 ## Instructions for Compiling Git Bootcamp Slides
 
