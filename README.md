@@ -29,51 +29,6 @@ Latex](https://gitlab.com/natedolny/git_bootcamp/-/wikis/How-to-install-LaTeX)
 [Tutorial: How to install
 Git](https://gitlab.com/natedolny/git_bootcamp/-/wikis/How-to-Install-Git)
 
+[Additional Learning Resources](https://gitlab.com/natedolny/git_bootcamp/-/wikis/Additional-Learning-Resources)
+
 If you encounter any issues or have questions, feel free to reach out for assistance.
-
-## Additional Learning Resources 
-
-### Git: 
-
-[Git Website](https://git-scm.com)
-
-[Git Manual](https://git-scm.com/doc)
-
-
-### GitLab:
-
-[GitLab Website](https://gitlab.com)
-
-[GitLab Manuals](https://docs.gitlab.com/ee/)
-
-
-### GitHub:
-
-[GitHub Website](https://github.com)
-
-[GitHub Manuals](https://docs.github.com/en)
-
-
-### Vim Text Editor:
-
-[Vim Website](https://vim.org)
-
-[Vim Tutorial](https://vim-hero.com)
-
-Vim Manual (if on a unix base machine)
-
-```
-man vim
-``` 
-
-
-### Nano Text Editor: 
-
-[Nano Website](https://nano-editor.org)
-
-Nano Manual (if on a unix based machine) 
-
-```
-man nano
-```
-
