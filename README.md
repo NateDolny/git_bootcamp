@@ -38,19 +38,21 @@ Git](https://gitlab.com/natedolny/git_bootcamp/-/wikis/How-to-Install-Git)
 [Git Manual](git-scm.com/doc)
 
 
+### GitLab:
 
 [GitLab Website](www.gitlab.com)
 
 [GitLab Manuals](https://docs.gitlab.com/ee/)
 
 
+### GitHub:
 
 [GitHub Website](www.github.com)
 
 [GitHub Manuals](https://docs.github.com/en)
 
 
-### Text Editors:
+### Vim Text Editor:
 
 [Vim Website](www.vim.org)
 
@@ -63,6 +65,7 @@ man vim
 ``` 
 
 
+### Nano Text Editor: 
 
 [Nano Website](www.nano-editor.org)
 
