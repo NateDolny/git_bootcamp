@@ -8,6 +8,15 @@ and a supportive environment to help you thrive in your academic and professiona
 
 ## Table of Contents
 
+[Tutorial: How to compile Git Bootcamp
+Slides](https://gitlab.com/natedolny/git_bootcamp/-/wikis/How-to-compile-Git-Bootcamp-Slides)
+
+[Tutorial: How to compile Reference
+sheet](https://gitlab.com/natedolny/git_bootcamp/-/wikis/How-to-compile-reference-sheet)
+
+[Tutorial: How to download PDF
+files](https://gitlab.com/natedolny/git_bootcamp/-/wikis/How-to-download-PDF-files)
+
 [Tutorial: How to verify Git
 installed](https://gitlab.com/natedolny/git_bootcamp/-/wikis/Verify-Git-Installation)
 
@@ -19,14 +28,5 @@ Latex](https://gitlab.com/natedolny/git_bootcamp/-/wikis/How-to-install-LaTeX)
 
 [Tutorial: How to install
 Git](https://gitlab.com/natedolny/git_bootcamp/-/wikis/How-to-Install-Git)
-
-[Tutorial: How to compile Git Bootcamp
-Slides](https://gitlab.com/natedolny/git_bootcamp/-/wikis/How-to-compile-Git-Bootcamp-Slides)
-
-[Tutorial: How to compile Reference
-sheet](https://gitlab.com/natedolny/git_bootcamp/-/wikis/How-to-compile-reference-sheet)
-
-[Tutorial: How to download PDF
-files](https://gitlab.com/natedolny/git_bootcamp/-/wikis/How-to-download-PDF-files)
 
 If you encounter any issues or have questions, feel free to reach out for assistance.
