@@ -745,7 +745,7 @@ changes you made to a document.
 
 % fun commands 
 \begin{frame}
-	\frametitle{\textbf{Additional Commands: Git Remotes}}
+	\frametitle{\textbf{Level Three: Git Remotes}}
 	
 	
 	\textbf{git remote -v}
@@ -767,19 +767,70 @@ changes you made to a document.
 
 \end{frame}
 
+% additional git commands 
+\begin{frame}
+	\frametitle{\textbf{Level Three: Git Signatures}}
+
+	\textbf{git blame \(\prec fileName \succ\)}
+	\begin{itemize}
+	\item Show the identity of who edited which line last
+	\end{itemize}
+	\vspace{0.25cm}
+
+	\textbf{git commit -S}
+	\begin{itemize}
+	\item Sign your git commits (a finger print that gets added to the commit)
+	will need to have GNU Privacy Guard installed for this to work 
+	\end{itemize}
+	\vspace{0.25cm}
+	
+	\textbf{git log --show-signature}
+	\begin{itemize}
+	\item Shows the signed commits of everyone 
+	\end{itemize}
+	\vspace{0.25cm}
+
+\end{frame}
+
 % rolling back in git 
 \begin{frame}
-	\frametitle{\textbf{What if we need to rollback?}}
+	\frametitle{\textbf{Level Three: Rollbacks}}
 	
 	\textbf{git reset -soft \(\prec commit\_id \succ\)}
 	\begin{itemize}
-		\item \textit{Resets to a specific commit, keep changes and staged documents from commits made after the commit}
+		\item Resets to a specific commit, keep changes and staged documents from commits made after the commit
 	\end{itemize}
 	\vspace{0.25cm}
 
 	\textbf{git reset -hard \(\prec commit\_id \succ\)}
 	\begin{itemize}
-		\item \textit{Resets to a specific commit, discards any changes and commits made after the commit}
+		\item Resets to a specific commit, discards any changes and commits made after the commit
+	\end{itemize}
+
+\end{frame}
+
+% git stash 
+\begin{frame}
+	\frametitle{\textbf{Level Three: Stashing}}
+	
+	\textbf{git stash}	
+	\begin{itemize}
+	\item 
+	\end{itemize}
+
+	\textbf{git stash list}
+	\begin{itemize}
+	\item 
+	\end{itemize}
+
+	\textbf{git stash apply stash@\{Index Number}\}
+	\begin{itemize}
+	\item 
+	\end{itemize}
+
+	\textbf{git stash pop stash@\{Index Number}\}
+	\begin{itemize}
+	\item 
 	\end{itemize}
 
 \end{frame}
