@@ -281,40 +281,38 @@ changes you made to a document.
 % Making a Commit 
 \begin{frame}
 	\frametitle{\textbf{Level One: Making a Commit}}
+	
+	\textbf{Step 1.} \textit{Initializes a new repository in the current directory}
+	\begin{itemize}
+		\item git init
+	\end{itemize}
+	\vspace{0.25cm}
 
-	\textbf{Step 1.} \textit{Add a document to staging}
+	\textbf{Step 2.} \textit{Add a document to staging}
 	\begin{itemize}
 		\item git add \(\prec document \succ\)
 	\end{itemize}
+	\vspace{0.25cm}
 
-	
-	\vspace{0.5cm}
-
-	\textbf{Step 2.} \textit{View documents that have been staged (Optional)}
+	\textbf{Step 3.} \textit{View documents that have been staged (Optional)}
 	\begin{itemize}
 		\item git status
 	\end{itemize}
+	\vspace{0.25cm}
 
-	
-	\vspace{0.5cm}
-
-	\textbf{Step 3.} \textit{Remove a document from staging (Optional)}
+	\textbf{Step 4.} \textit{Remove a document from staging (Optional)}
 	\begin{itemize}
 		\item git reset \(\prec document \succ\)
 	\end{itemize}
+	\vspace{0.25cm}
 
-
-	\vspace{0.5cm}
-
-	\textbf{Step 4.} \textit{Record changes to repository}
+	\textbf{Step 5.} \textit{Record changes to repository}
 	\begin{itemize}
 		\item git commit
 	\end{itemize}
+	\vspace{0.25cm}
 
-
-	\vspace{0.5cm}
-
-	\textbf{Step 5.} \textit{Upload changes to remote repository}
+	\textbf{Step 6.} \textit{Upload changes to remote repository}
 	\begin{itemize}
 		\item git push 
 	\end{itemize}
@@ -764,7 +762,12 @@ changes you made to a document.
 	\begin{itemize}
 	\item Remove a remote 
 	\end{itemize}
+	\vspace{0.25cm}
 
+	\begin{block}{\textbf{Remote}}
+remotes are references to a repository that are typically stored on a remote
+server. 
+	\end{block}
 \end{frame}
 
 % additional git commands 
@@ -774,13 +777,6 @@ changes you made to a document.
 	\textbf{git blame \(\prec fileName \succ\)}
 	\begin{itemize}
 	\item Show the identity of who edited which line last
-	\end{itemize}
-	\vspace{0.25cm}
-
-	\textbf{git commit -s}
-	\begin{itemize}
-	\item Adds a "signed off by" to the commit, this would include the name and
-email address of the person making the commit
 	\end{itemize}
 	\vspace{0.25cm}
 
