@@ -59,14 +59,18 @@ BitKeeper, the source code management system for the Linux kernel and many other
 \begin{frame}
 	\frametitle{\textbf{History of Git}}
 
+\textbf{More about Git:}
+\vspace{0.25cm}
+
 \begin{itemize}
 \item Git was built in about 5 days
 \item Released in April 2005 by Linus Torvalds 
 \end{itemize}
 
 \vspace{0.5cm}
+
 \textbf{Design goals of Git:}
- 
+\vspace{0.25cm} 
 \begin{itemize}
 \item Speed 
 \item Simple design 
@@ -150,7 +154,7 @@ BitKeeper, the source code management system for the Linux kernel and many other
 
 	\textit{View our configuration (Optional)}
 	\begin{itemize}
-		\item git config --global list
+		\item git config --list
 	\end{itemize}
 
 	\begin{block}{\textbf{PRO TIP}}
@@ -262,7 +266,7 @@ changes you made to a document.
 	\vspace{0.5cm}
 	
 	\begin{itemize}
-		\item \textit{Title:} Add a topic
+		\item \textit{Subject:} Add a subject title
 		\vspace{0.5cm}
 		\item \textit{Changes:} Add details about changes made to file(s)
 		\vspace{0.5cm}
@@ -280,7 +284,7 @@ changes you made to a document.
 
 % Making a Commit 
 \begin{frame}
-	\frametitle{\textbf{Level One: Making a Commit}}
+	\frametitle{\textbf{Level One: Making a commit}}
 	
 	\textbf{Step 1.} \textit{Initializes a new repository in the current directory}
 	\begin{itemize}
@@ -331,7 +335,7 @@ changes you made to a document.
 	\frametitle{\textbf{Play Time: Can you do this?}}
 	\textbf{Task 1:}
 	\begin{itemize}
-	\item Setup a git profile include your name, email, editor of choice 
+	\item Setup a second git profile include your name, email, editor of choice 
 	\end{itemize}
 	
 	\vspace{1cm}
@@ -425,7 +429,7 @@ changes you made to a document.
 			\item Over 30 million users
 			\item More secure than GitHub
 			\item Focuses on collaboration, efficiency, and automation 
-			\item Only platform that self-hosting is free 
+			\item One of the only platform that self-hosting is free, also checkout gitea
 		\end{itemize}
 
 		\includegraphics[width=0.5\textwidth]{img/gitlab_ui.png} 
@@ -602,7 +606,7 @@ changes you made to a document.
 	\begin{block}{\textbf{Troubleshooting Steps}}
 		\begin{itemize}
 			\item \textit{Re-check you copied the correct public key}
-			\item \textit{Re-chck your test command is correct}
+			\item \textit{Re-check your test command is correct}
 		\end{itemize}
 	\end{block}
 	
@@ -651,7 +655,7 @@ changes you made to a document.
 
 	\begin{itemize}
 		\item Allows you make an isolated copy of your work 
-		\item Protects yourself from messing up your final draft 
+		\item Protects yourself from messing up your main branch 
 	\end{itemize}
 	\vspace{0.25cm}
 
@@ -674,6 +678,12 @@ changes you made to a document.
 	\vspace{0.25cm}
 
 	\textbf{git checkout \(\prec branchName \succ\)}
+	\begin{itemize}
+		\item \textit{Moves you to the specified branch}
+	\end{itemize}
+	\vspace{0.25cm}
+
+	\textbf{git branch}
 	\begin{itemize}
 		\item \textit{Shows all your branches}
 	\end{itemize}
@@ -713,8 +723,8 @@ changes you made to a document.
 
 	\textbf{Task 2:}
 	\begin{itemize}
-	\item Create a repository called FirstRepo
-	\item Clone the FirstRepo and make a commit called first commit
+	\item Create a repository called LevelTwo
+	\item Clone the LevelTwo repo and make a commit
 	\end{itemize}
 
 	\vspace{1cm}
@@ -764,8 +774,8 @@ changes you made to a document.
 	\end{itemize}
 	\vspace{0.25cm}
 
-	\begin{block}{\textbf{Remote}}
-remotes are references to a repository that are typically stored on a remote
+	\begin{block}{\textbf{Remotes}}
+Remotes are references to a repository that are typically stored on a remote
 server. 
 	\end{block}
 \end{frame}
@@ -845,7 +855,7 @@ from the stash list, you can also reapply based on index number
 
 % Additional Learning Resources 
 \begin{frame}
-	\frametitle{\textbf{Additional Learning Resources}}
+	\frametitle{\textbf{Level Three: Additional Learning Resources}}
 	
 	\textbf{Text Editors:}
 
@@ -876,5 +886,29 @@ from the stash list, you can also reapply based on index number
 	GitLab Website: \textit{\url{www.gitlab.com}}
 
 	GitLab Manuals: \textit{\url{https://docs.gitlab.com/ee/}}
+\end{frame}
+
+% git game
+\begin{frame}
+	\frametitle{\textbf{Level Three: The fun continues}}
+	
+	\hspace{1cm}\textbf{Lets play a game}
+
+	\begin{multicols}{2}
+	\begin{figure}[h]
+	\flushright
+	\includegraphics[width=0.5\textwidth]{img/gitGame.png} 
+	\end{figure}
+	\vspace{0.25cm}
+	\begin{itemize}
+	\item Navigate to the git bootcamp repository gitlab.com/natedolny/gitbootcamp
+	\vspace{0.25cm}
+	\item Click on the Games directory 
+	\vspace{0.25cm}
+	\item Download the oh-my-git game 
+	\vspace{0.25cm}
+	\item Let the fun begin!!
+	\end{itemize}
+	\end{multicols}
 \end{frame}
 \end{document}
